@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AXoY1a+rj7+Y65RUmOdSYV8qKj7NMtgCUZb+WFlahvfsdDikh5d1beENV71wC8WZAyB/6gSl+ELhic6Wnw4Gdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mpagani\\Source\\Events\\DevDays2021-September\\03-AppWindowSample\\AppWindowSample.Package\\AppWindowSample.Package.wapproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages\\microsoft.windows.sdk.buildtools\\10.0.22414.2000-preview.rs-prerelease\\microsoft.windows.sdk.buildtools.10.0.22414.2000-preview.rs-prerelease.nupkg.sha512",
+    "C:\\Users\\mpagani\\.nuget\\packages\\microsoft.windowsappsdk\\1.0.0-experimental1\\microsoft.windowsappsdk.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\mpagani\\.nuget\\packages\\microsoft.windowsappsdk.dwrite\\1.0.0-experimental1\\microsoft.windowsappsdk.dwrite.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\mpagani\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.0.0-experimental1\\microsoft.windowsappsdk.foundation.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\mpagani\\.nuget\\packages\\microsoft.windowsappsdk.interactiveexperiences\\1.0.0-experimental1\\microsoft.windowsappsdk.interactiveexperiences.1.0.0-experimental1.nupkg.sha512",
+    "C:\\Users\\mpagani\\.nuget\\packages\\microsoft.windowsappsdk.winui\\1.0.0-experimental1\\microsoft.windowsappsdk.winui.1.0.0-experimental1.nupkg.sha512"
+  ],
+  "logs": []
+}
