@@ -1,1 +1,0 @@
-C:\src\ActivationSample\ActivationSample.Package\ActivationSample.Package.wapproj;arm64
